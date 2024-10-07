@@ -1,1 +1,1 @@
-# Gamer-s-Pride
+# gamer-s-pride
