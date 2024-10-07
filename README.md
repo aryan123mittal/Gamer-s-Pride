@@ -9,7 +9,11 @@ to create a community-driven environment that enhances user enthusiasm and keeps
 trending games.
 
 Technologies Used:
+
 Frontend: HTML, CSS, JavaScript
+
 HTML for structuring the website.
+
 CSS for responsive design and user interface styling.
+
 JavaScript for implementing dynamic functionality and enhancing user experience.
